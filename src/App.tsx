@@ -1,4 +1,3 @@
-import Popup from "./components/UI/Popup";
 import { gameLoop } from "./engine";
 import "./index.css";
 
